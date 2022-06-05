@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/joexyjay/stats-preview-card-component-main.git
+- Live Site URL: https://joexyjay.github.io/stats-preview-card-component-main/
 
 
 ### Built with
