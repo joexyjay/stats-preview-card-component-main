@@ -24,6 +24,7 @@ body{
     height: 100%;
     background-color: hsl(278, 75%, 33%);
     opacity: 0.5;
+    border-radius: inherit;
 }
 .card{
     background-color: hsl(244, 38%, 16%);
@@ -74,7 +75,7 @@ header p{
     }
     .images-section{
         background-image: url(images/image-header-desktop.jpg);
-        width: 1500px;
+        width: 900px;
         background-size: cover;
         background-position: initial;
         height: auto;
@@ -89,7 +90,11 @@ header p{
     }
     .text-section{
         font-size: 20px;
-        padding: 80px;
+        padding: 0 35px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        flex-basis: 80%;
     }
 
 }
